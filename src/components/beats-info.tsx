@@ -70,7 +70,7 @@ export function BeatsInfo({ className, open, onToggle }: BeatsInfoProps) {
                 </p>
               </div>
               <a
-                href="https://github.com/jacobjordan94/swatch-time"
+                href="https://github.com/jacobjordan94/.beats"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-4 inline-flex items-center gap-1.5 text-sm text-foreground/75 transition-colors hover:text-foreground"
